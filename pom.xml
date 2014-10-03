@@ -61,7 +61,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>it.mauri.undertow.minimal.HelloWorldServer</mainClass>
+                            <mainClass>com.softinstigate.undertow.minimal.HelloWorldServer</mainClass>
                         </manifest>
                     </archive>
                 </configuration>

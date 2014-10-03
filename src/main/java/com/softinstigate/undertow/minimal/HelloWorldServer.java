@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package it.mauri.undertow.minimal;
+package com.softinstigate.undertow.minimal;
 
 import io.undertow.Undertow;
 import io.undertow.server.HttpServerExchange;
